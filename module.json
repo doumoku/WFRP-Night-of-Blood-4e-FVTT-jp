@@ -2,7 +2,7 @@
   "id": "wfrp4e-night-of-blood",
   "title": "Night of Blood (WFRP 4e)",
   "description": "The classic Warhammer Fantasy Roleplay adventure, perfect for introducing new players. Now updated to include multi-level scenes",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "author": "Stuart Kerrigan",
   "compatibility": {
     "minimum": "13",
@@ -18,7 +18,7 @@
     "requires": [
       { "id": "lib-wrapper", "type": "module" },
       { "id": "betterroofs", "type": "module" },
-      { "id": "wall-height", "type": "module" },
+	  { "id": "wall-height", "type": "module" },
       { "id": "levels", "type": "module" },
       { "id": "token-attacher", "type": "module" },
       { "id": "tokenmagic", "type": "module" }
@@ -61,7 +61,7 @@
   "flags": {
     "initializationPacks": ["wfrp4e-night-of-blood.NightOfBloodJournal"]
   },
-  "url": "https://github.com/karlji/WFRP-Night-of-Blood-4e-FVTT",
-  "manifest": "https://raw.githubusercontent.com/karlji/WFRP-Night-of-Blood-4e-FVTT/refs/heads/master/module.json",
-  "download": "https://github.com/karlji/WFRP-Night-of-Blood-4e-FVTT/archive/refs/heads/master.zip"
+  "url": "https://github.com/CStuartEKerrigan/WFRP-Night-of-Blood-4e-FVTT",
+  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Night-of-Blood-4e-FVTT/refs/heads/master/module.json",
+  "download": "https://github.com/CStuartEKerrigan/WFRP-Night-of-Blood-4e-FVTT/archive/refs/heads/master.zip"
 }
